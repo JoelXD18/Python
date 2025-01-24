@@ -3,4 +3,8 @@ vf = 2.3
 vc = 'a'
 vs = "aaa"
 vb = True
-print("vi: ", vi)
+print("vInt: ", vi)
+print("vFloat: ", vf)
+print("vChar: ", vc)
+print("vString: ", vs)
+print("vBoolean: ", vb)
